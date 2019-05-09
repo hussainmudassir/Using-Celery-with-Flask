@@ -33,13 +33,13 @@ _You need to run three terminals_
 
 In first terminal, 
 
-$ cd <Project-Folder>
+$ cd Project-Folder
 
 $ ./run-redis.sh
 
 In second terminal.
 
-$ cd <Project-Folder>
+$ cd Project-Folder
 
 $ export MAIL_USERNAME=<your-gmail-username>
 
