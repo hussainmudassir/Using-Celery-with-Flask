@@ -1,6 +1,6 @@
 **Using celery with Flask**
 
-This repository is an example of using Celery 
+This repository contains two examples of using Celery 
 
 1. Send Asynchronous Email
 2. Long running task with progress update
