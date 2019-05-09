@@ -41,9 +41,9 @@ In second terminal.
 
 $ cd Project-Folder
 
-$ export MAIL_USERNAME=<your-gmail-username>
+$ export MAIL_USERNAME=your-gmail-username
 
-$ export MAIL_PASSWORD=<your-gmail-password>
+$ export MAIL_PASSWORD=your-gmail-password
 
 $ source venv/bin/activate
 
