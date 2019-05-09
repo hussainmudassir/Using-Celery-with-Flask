@@ -5,7 +5,7 @@ This repository is an example of using Celery
 1. Send Asynchronous Email
 2. Long running task with progress update
 
-![Alt text](/home/mudassir/Pictures/celery.png?raw=true "Title")
+![alt text](Screenshots/celery.png?raw=true "Title")
 
 **Quick Setup**
 
